@@ -1,4 +1,4 @@
-# journyfy
+# Journyfy
 
 This repository contains information about the developers who created the android app Journyfu
 
